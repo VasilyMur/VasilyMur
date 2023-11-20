@@ -3,7 +3,7 @@
 Веду канал о современной web разработке на [YouTube](https://www.youtube.com/@stackdev).
 Создаю бесплатные и платные курсы на [https://stackdev.ru](https://stackdev.ru).
 
-## <a id="user-content-javascript-для-начинающих" href="#javascript-для-начинающих">:link:</a> Курс JavaScript для начинающих
+## Курс JavaScript для начинающих
 Базовый курс по изучению "ванильного" JavaScript с нуля. Получи знания, необходимые перед началом изучения современных библиотек и фрэймворков (React, Vue и др.).
 
 <div>
