@@ -1,5 +1,5 @@
 Занимаюсь web разработкой в рамках экосистемы JavaScript :fire:. 
-Использую React, Redux и TypeScript, Node. 
+Использую React, Redux, TypeScript и Node. 
 Веду канал о современной web разработке на [YouTube](https://www.youtube.com/@stackdev).
 Создаю бесплатные и платные курсы на [https://stackdev.ru](https://stackdev.ru).
 
