@@ -81,3 +81,8 @@
 </div>
 
 [Узнать больше](https://gatsbyjs.ru)
+
+Другие мои проекты:
+
+* [https://beskilled.ru](https://beskilled.ru)
+* [https://topkovorking.ru](https://topkovorking.ru)
