@@ -82,6 +82,8 @@
 
 [Узнать больше](https://gatsbyjs.ru)
 
+Дополнительная страница [курса JavaScript - JS001](https://js001.ru/)
+
 Другие мои проекты:
 
 * [https://beskilled.ru](https://beskilled.ru)
